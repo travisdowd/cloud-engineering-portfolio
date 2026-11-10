@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 echo "=============================================="
 echo "   CORE TECHNOLOGIES OF A CLOUD ENGINEER"
 echo "=============================================="
