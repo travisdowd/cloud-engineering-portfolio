@@ -49,7 +49,6 @@ The following tasks will be completed and documented:
 7. File archiving and compression.
 8. README documentation using Nano.
 
-## Screenshots
 
 ## Screenshots
 
