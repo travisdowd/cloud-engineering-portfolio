@@ -32,7 +32,9 @@ The goal of this lab is to gain practical experience deploying and managing a Li
 
 The lab includes a VPC architecture design containing public and private subnets, routing, an Internet Gateway, and a NAT Gateway.
 
-The architecture diagram will be stored in the `architecture/` directory.
+### VPC Architecture Diagram
+
+![AWS VPC Architecture](Architecture/aws-ec2-network-diagram.png)
 
 ## Implementation
 
