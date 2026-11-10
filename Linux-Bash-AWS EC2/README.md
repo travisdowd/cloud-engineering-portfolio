@@ -51,7 +51,37 @@ The following tasks will be completed and documented:
 
 ## Screenshots
 
-Screenshots documenting each implementation step will be stored in the `Screenshots/` directory.
+## Screenshots
+
+The following screenshots demonstrate the implementation and verification of the AWS EC2 and Linux lab exercises.
+
+### 1. AWS Security Group Configuration
+
+![Security Group](Screenshots/01-security-group.png)
+
+### 2. Ubuntu EC2 Instance
+
+![EC2 Instance](Screenshots/02-ec2-instance-running.png)
+
+### 3. Linux Directory Structure
+
+![Directory Structure](Screenshots/03-project-directory-structure.png)
+
+### 4. Linux File Permissions
+
+![File Permissions](Screenshots/04-file-permissions.png)
+
+### 5. Bash Script Execution
+
+![Bash Script](Screenshots/05-bash-script-execution.png)
+
+### 6. File Archiving and Compression
+
+![Archive Compression](Screenshots/06-compressed-project-archive.png)
+
+### 7. README Editing with Nano
+
+![Nano Editor](Screenshots/07-readme-nano-editor.png)
 
 ## Challenges
 
