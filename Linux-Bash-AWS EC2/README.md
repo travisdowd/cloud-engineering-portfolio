@@ -34,7 +34,7 @@ The lab includes a VPC architecture design containing public and private subnets
 
 ### VPC Architecture Diagram
 
-![AWS VPC Architecture](Architecture/aws-vpc-network-diagram.png)
+![AWS VPC Architecture](Architecture/AWS-VPC-network-diagram.png)
 
 ## Implementation
 
