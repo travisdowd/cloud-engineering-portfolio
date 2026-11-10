@@ -69,7 +69,7 @@ The following screenshots demonstrate the implementation and verification of the
 
 ### 4. Linux File Permissions
 
-![File Permissions](Screenshots/04-file-permissions.png)
+![File Permissions](Screenshots/04-file permissions.png)
 
 ### 5. Bash Script Execution
 
