@@ -2,32 +2,38 @@
 
 ## Project Overview
 
-This project demonstrates hands-on experience with
-AWS relational databases, SQL fundamentals, and
-AWS Identity and Access Management.
+This project demonstrates hands-on experience with AWS relational databases, SQL fundamentals, and AWS Identity and Access Management (IAM).
 
-## Part 1 - SQL Database Lab
+The labs focus on database administration, SQL queries, cloud infrastructure, access management, and AWS security practices.
 
-- Amazon RDS
-- MySQL
-- Database and table creation
-- SQL queries
+## Part 1 – SQL Database Lab
+
+- Amazon RDS deployment and configuration
+- MySQL database and table creation
+- SQL queries and JOIN operations
 - SQL data types
-- SQL vs NoSQL
+- SQL vs. NoSQL concepts
 
-## Part 2 - AWS IAM Lab
+**[View SQL Database Lab Documentation](SQL-Database-Lab/README.md)**
 
-- IAM users
-- IAM groups
-- IAM roles
-- IAM policies
-- Multi-factor authentication
+## Part 2 – AWS IAM Lab
+
+- IAM user creation and permission management
+- IAM group creation and policy assignment
+- IAM role creation and EC2 integration
+- AWS managed and custom IAM policies
+- Multi-factor authentication (MFA)
+- AWS CLI identity and permission verification
+
+**[View AWS IAM Lab Documentation](IAM-Lab/README.md)**
 
 ## Technologies
 
-- Amazon Web Services
+- Amazon Web Services (AWS)
 - Amazon RDS
-- MySQL
-- AWS IAM
 - Amazon EC2
+- AWS IAM
+- MySQL
+- AWS CLI
+- Linux
 - GitHub
