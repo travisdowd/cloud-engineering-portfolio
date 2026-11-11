@@ -103,3 +103,16 @@ Screenshots documenting database creation, table data, customer orders, and SQL 
 This lab provided hands-on experience with relational database concepts, SQL commands, table relationships, and AWS managed database services.
 
 I also gained practical experience connecting MySQL Workbench to an Amazon RDS MySQL instance and querying related data using JOIN statements.
+## Project Screenshots
+
+### 1. Amazon RDS Database Creation
+![RDS Database Created](Screenshots/01-rds-database-created.png)
+
+### 2. Coffee Table Data
+![Coffee Table Data](Screenshots/02-coffee-table-data.png)
+
+### 3. Customer Order Data
+![Customer Order Data](Screenshots/03-customer-order-data.png)
+
+### 4. Customer Orders SQL JOIN
+![Customer Orders JOIN](Screenshots/04-customer-orders-join.png)
