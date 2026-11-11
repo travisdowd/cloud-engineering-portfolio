@@ -1,26 +1,33 @@
-# Week 3 - SQL & IAM Labs
+# SQL Databases & AWS IAM
 
-## Overview
-This folder contains my Week 3 cloud engineering labs.
+## Project Overview
 
-### Labs
-1. SQL Database Lab
-   - AWS database creation
-   - SQL table creation and queries
+This project demonstrates hands-on experience with
+AWS relational databases, SQL fundamentals, and
+AWS Identity and Access Management.
 
-2. IAM Lab
-   - IAM users and permissions
-   - Custom IAM policies
-   - S3 read-only access
+## Part 1 - SQL Database Lab
 
-## Folder Structure
+- Amazon RDS
+- MySQL
+- Database and table creation
+- SQL queries
+- SQL data types
+- SQL vs NoSQL
 
-- SQL-Database-Lab/
-- IAM-Lab/
+## Part 2 - AWS IAM Lab
 
-## Skills Practiced
-- AWS RDS
-- SQL
+- IAM users
+- IAM groups
+- IAM roles
+- IAM policies
+- Multi-factor authentication
+
+## Technologies
+
+- Amazon Web Services
+- Amazon RDS
+- MySQL
 - AWS IAM
-- JSON policy creation
-- Least privilege access
+- Amazon EC2
+- GitHub
