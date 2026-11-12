@@ -66,28 +66,28 @@ Python-Basics/
 ## Screenshots
 
 ### Python Environment
-![Python Version](screenshots/01-python-version.png)
+![Python Version](Screenshots/01-python-version.png)
 
 ### Syntax Practice
-![Syntax Output](screenshots/02-syntax-output.png)
+![Syntax Output](Screenshots/02-syntax-output.png)
 
 ### Variables and Data Types
-![Variables Output](screenshots/03-variables-output.png)
+![Variables Output](Screenshots/03-variables-output.png)
 
 ### Lists and Dictionaries
-![Lists and Dictionaries Output](screenshots/04-lists-dictionaries-output.png)
+![Lists and Dictionaries Output](Screenshots/04-lists-dictionaries-output.png)
 
 ### Conditional Statements
 ![Conditionals Output](screenshots/05-conditionals-output.png)
 
 ### Loops
-![Loops Output](screenshots/06-loops-output.png)
+![Loops Output](Screenshots/06-loops-output.png)
 
 ### Functions
-![Functions Output](screenshots/07-functions-output.png)
+![Functions Output](Screenshots/07-functions-output.png)
 
 ### Modules
-![Modules Output](screenshots/08-modules-output.png)
+![Modules Output](Screenshots/08-modules-output.png)
 
 ## Execution
 
