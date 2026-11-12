@@ -78,7 +78,7 @@ Python-Basics/
 ![Lists and Dictionaries Output](Screenshots/04-lists-dictionaries-output.png)
 
 ### Conditional Statements
-![Conditionals Output](screenshots/05-conditionals-output.png)
+![Conditionals Output](Screenshots/05-conditionals-output.png)
 
 ### Loops
 ![Loops Output](Screenshots/06-loops-output.png)
