@@ -35,7 +35,9 @@ Hands-on cloud engineering projects and technical documentation demonstrating pr
 - **Version Control:** Git, GitHub
 
 ### Python Fundamentals
-[Python-Lab](./Python-Lab/README.md) – Python fundamentals covering variables, data structures, conditionals, loops, functions, and modules.
+Python fundamentals covering variables, data structures, conditionals, loops, functions, and modules.
+
+**[View Project](./Python-Lab/README.md)**
 
 ## About This Portfolio
 
