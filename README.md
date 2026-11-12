@@ -34,6 +34,9 @@ Hands-on cloud engineering projects and technical documentation demonstrating pr
 - **Databases:** MySQL, SQL
 - **Version Control:** Git, GitHub
 
+### Python Fundamentals
+[Python-Lab](./Python-Lab/README.md) – Python fundamentals covering variables, data structures, conditionals, loops, functions, and modules.
+
 ## About This Portfolio
 
 This repository showcases my ongoing development in cloud engineering through hands-on infrastructure projects, technical implementations, and practical experimentation.
