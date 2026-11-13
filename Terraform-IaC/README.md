@@ -58,8 +58,6 @@ Terraform-IaC/
 └── README.md
 ```
 
-
-### Environment Setup
 ## Screenshots
 
 ### Environment Setup
