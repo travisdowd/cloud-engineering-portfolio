@@ -60,8 +60,6 @@ Terraform-IaC/
 
 ## Screenshots
 
-## Screenshots
-
 ### Environment Setup
 - [Terraform Installation](Screenshots/01-terraform-installation.png)
 - [Terraform Version](Screenshots/02-terraform-version.png)
