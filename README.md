@@ -24,6 +24,17 @@ Hands-on cloud engineering projects and technical documentation demonstrating pr
 
 **[View Project](SQL-IAM/)**
 
+### Terraform & AWS Infrastructure as Code
+
+- Infrastructure provisioning using Terraform
+- AWS EC2 instance deployment and lifecycle management
+- Amazon S3 bucket provisioning and configuration
+- S3 server-side encryption (SSE-S3)
+- S3 public access blocking and security controls
+- Terraform initialization, validation, planning, applying, and destroying infrastructure
+
+[View Project](Terraform-IaC/README.md)
+
 ## Technologies & Tools
 
 - **Cloud Platforms:** Amazon Web Services (AWS)
