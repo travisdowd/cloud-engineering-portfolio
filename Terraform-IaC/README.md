@@ -61,27 +61,47 @@ Terraform-IaC/
 ## Screenshots
 
 ### Environment Setup
-- [Terraform Installation](Screenshots/01-terraform-installation.png)
-- [Terraform Version](Screenshots/02-terraform-version.png)
-- [Administrator Access](Screenshots/03-administrator-access.png)
-- [IAM Access Key Configuration](Screenshots/04-iam-access-key-active.png)
-- [AWS CLI Installation](Screenshots/05-aws-cli-version.png)
-- [AWS Identity Verification](Screenshots/06-aws-identity-verification.png)
-- [Git Installation](Screenshots/07-git-version.png)
+- ## Screenshots
+
+### Environment Setup
+
+![Terraform Installation](Screenshots/01-terraform-installation.png)
+
+![Terraform Version](Screenshots/02-terraform-version.png)
+
+![Administrator Access](Screenshots/03-administrator-access.png)
+
+![IAM Access Key Configuration](Screenshots/04-iam-access-key-active.png)
+
+![AWS CLI Installation](Screenshots/05-aws-cli-version.png)
+
+![AWS Identity Verification](Screenshots/06-aws-identity-verification.png)
+
+![Git Installation](Screenshots/07-git-version.png)
 
 ### Terraform EC2 Deployment
-- [Terraform Initialization and Validation](Screenshots/08-terraform-initialization-validation.png)
-- [Terraform Execution Plan](Screenshots/09-terraform-plan.png)
-- [EC2 Deployment](Screenshots/10-terraform-ec2-deployment.png)
-- [EC2 Instance Running in AWS](Screenshots/11-aws-ec2-instance-running.png)
-- [Terraform Infrastructure Update](Screenshots/12-terraform-instance-update.png)
-- [Terraform Destroy Plan](Screenshots/13-terraform-destroy-plan.png)
-- [EC2 Destroy Confirmation](Screenshots/14-terraform-destroy-success.png)
+
+![Terraform Initialization and Validation](Screenshots/08-terraform-initialization-validation.png)
+
+![Terraform Execution Plan](Screenshots/09-terraform-plan.png)
+
+![EC2 Deployment](Screenshots/10-terraform-ec2-deployment.png)
+
+![EC2 Instance Running in AWS](Screenshots/11-aws-ec2-instance-running.png)
+
+![Terraform Infrastructure Update](Screenshots/12-terraform-instance-update.png)
+
+![Terraform Destroy Plan](Screenshots/13-terraform-destroy-plan.png)
+
+![EC2 Destroy Confirmation](Screenshots/14-terraform-destroy-success.png)
 
 ### S3 Provisioning and Security
-- [S3 Bucket Creation](Screenshots/15-terraform-s3-bucket-created.png)
-- [S3 Default Encryption – AES-256](Screenshots/16-s3-default-encryption.png)
-- [S3 Public Access Protection](Screenshots/17-s3-public-access-block.png)
+
+![S3 Bucket Creation](Screenshots/15-terraform-s3-bucket-created.png)
+
+![S3 Default Encryption - AES-256](Screenshots/16-s3-default-encryption.png)
+
+![S3 Public Access Protection](Screenshots/17-s3-public-access-block.png)
 
 ## Key Takeaways
 
