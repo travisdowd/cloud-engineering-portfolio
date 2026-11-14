@@ -1,0 +1,21 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+
+# SSH private keys
+*.pem
+*.key
+ansible-lab
+
+# Python
+__pycache__/
+*.pyc
+
+# Docker
+.env
+
+# Local Terraform variables
+Terraform/terraform.tfvars
