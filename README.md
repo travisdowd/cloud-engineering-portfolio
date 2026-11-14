@@ -33,22 +33,43 @@ Hands-on cloud engineering projects and technical documentation demonstrating pr
 - S3 public access blocking and security controls
 - Terraform initialization, validation, planning, applying, and destroying infrastructure
 
-[View Project](Terraform-IaC/README.md)
+**[View Project](Terraform-IaC/README.md)**
+
+### Ansible & Docker Cloud Engineering Lab
+
+- AWS EC2 infrastructure provisioning using Terraform
+- Ansible control server and managed Linux nodes
+- SSH key-based authentication
+- Ansible inventory management and playbook automation
+- Automated NGINX installation and configuration
+- Python Flask application development
+- Docker image creation and container deployment
+- Application testing and container management
+
+**[View Project](Ansible-Docker-Lab/README.md)**
+
+### Python Fundamentals
+
+- Python variables and data types
+- Lists, dictionaries, and data structures
+- Conditional statements and loops
+- Functions and modules
+- Basic scripting and programming fundamentals
+
+**[View Project](Python-Lab/README.md)**
 
 ## Technologies & Tools
 
 - **Cloud Platforms:** Amazon Web Services (AWS)
 - **Cloud Services:** EC2, RDS, IAM, S3, VPC
 - **Operating Systems:** Linux, Windows Server
-- **Scripting:** Bash
+- **Scripting & Programming:** Bash, Python
 - **Infrastructure as Code:** Terraform
+- **Configuration Management:** Ansible
+- **Containerization:** Docker
+- **Web Servers:** NGINX
 - **Databases:** MySQL, SQL
 - **Version Control:** Git, GitHub
-
-### Python Fundamentals
-Python fundamentals covering variables, data structures, conditionals, loops, functions, and modules.
-
-**[View Project](./Python-Lab/README.md)**
 
 ## About This Portfolio
 
